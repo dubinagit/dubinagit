@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dubinagit
-- 👀 I’m interested in a project with LLM and CV
+- 👀 I’m interested in a project with GPT model and Computer Vision
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
